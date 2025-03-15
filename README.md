@@ -19,6 +19,5 @@
 - 使用者本人の責任の元に利用してください。
 
 ## 連絡先
-- 田中リューセイ
-- 亀井研
-
+- 田中瑠星 email : s24g354@kagawa-u.ac.jp
+- 亀井研 URL : [kamei_lab](https://rain.eng.kagawa-u.ac.jp/kameilab/)
